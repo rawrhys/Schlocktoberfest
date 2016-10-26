@@ -43,7 +43,7 @@
 </nav>     
            <div class="col-xs-12">
            <div class="row">
-             <h1>Sclocktoberfest <small>The best worst movie festival ever</small></h1>
+             <h1>Schlocktoberfest <small>The best worst movie festival ever</small></h1>
            </div>
            </div>
             <div class="row">
